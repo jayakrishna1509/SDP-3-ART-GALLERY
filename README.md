@@ -10,5 +10,5 @@ Art Gallery - The Perfect Portraits(Art Pictures and Paintings)
 
 ###### Required Softwares are Used
 
-#### Java, Springboot, Maven, XML, Apache Tomcat Server, SQL etc.
+#### Java, Springboot, Maven, XML, HTML, CSS, Javascript, Apache Tomcat Server, SQL etc.
 
